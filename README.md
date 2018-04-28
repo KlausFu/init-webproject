@@ -1,5 +1,5 @@
 # init-webproject
-script for creating files and load libraries to start a new simple web project
+script for creating files and loading libraries to start a new simple web project with php, less and javascript
 
 ## libraries
 the following libraries will be installed via npm
